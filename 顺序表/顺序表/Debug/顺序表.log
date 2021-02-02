@@ -1,0 +1,6 @@
+﻿  SeqList.c
+d:\数据结构（初阶）\顺序表\顺序表\seqlist.c(8): warning C4133: “=”: 从“SeqList *”到“SLDataType *”的类型不兼容
+d:\数据结构（初阶）\顺序表\顺序表\seqlist.c(37): warning C4133: “=”: 从“SeqList *”到“SLDataType *”的类型不兼容
+  test.c
+  正在生成代码...
+  顺序表.vcxproj -> D:\数据结构（初阶）\顺序表\Debug\顺序表.exe
