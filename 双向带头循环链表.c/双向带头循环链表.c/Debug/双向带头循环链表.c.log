@@ -1,0 +1,8 @@
+﻿  List.c
+  test.c
+d:\data-structure-initial-level-\双向带头循环链表.c\双向带头循环链表.c\test.c(36): warning C4020: “ListInsert”: 实参太多
+d:\data-structure-initial-level-\双向带头循环链表.c\双向带头循环链表.c\test.c(41): warning C4020: “ListErase”: 实参太多
+d:\data-structure-initial-level-\双向带头循环链表.c\双向带头循环链表.c\test.c(42): warning C4020: “ListErase”: 实参太多
+d:\data-structure-initial-level-\双向带头循环链表.c\双向带头循环链表.c\test.c(43): warning C4020: “ListErase”: 实参太多
+  正在生成代码...
+  双向带头循环链表.c.vcxproj -> D:\Data-structure-initial-level-\双向带头循环链表.c\Debug\双向带头循环链表.c.exe
