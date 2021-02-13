@@ -1,0 +1,6 @@
+﻿  test.c
+d:\data-structure-initial-level-\heap\heap\test.c(9): warning C4133: “函数”: 从“int *”到“Heap *”的类型不兼容
+d:\data-structure-initial-level-\heap\heap\test.c(18): warning C4133: “函数”: 从“int *”到“Heap *”的类型不兼容
+d:\data-structure-initial-level-\heap\heap\test.c(47): warning C4047: “函数”:“HPDataType”与“int [10]”的间接级别不同
+d:\data-structure-initial-level-\heap\heap\test.c(47): warning C4024: “HeapInit”: 形参和实参 2 的类型不同
+  Heap.vcxproj -> D:\Data-structure-initial-level-\Heap\Debug\Heap.exe
